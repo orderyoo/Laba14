@@ -1,0 +1,8 @@
+System.out.printli("guky");
+int a = 1;
+if(a < 2){
+ System.out.println("Ture");
+}
+
+
+
